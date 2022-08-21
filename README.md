@@ -4,4 +4,4 @@ Gå in på mappen som heter "scripts" för att se koden som används till spelet
 
 ---
 
-This game was used as an example project in a course that I organized in Lua programming in Roblox Studio for kids.
+This game was used as an example project in a course that I organized about Lua programming in Roblox Studio for kids.
