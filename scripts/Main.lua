@@ -25,7 +25,6 @@ while true do
 	end
 
 
-
 	-- Flyttar alla spelare till sina start-positioner
 
 	function MovePlayersToStartPos()
